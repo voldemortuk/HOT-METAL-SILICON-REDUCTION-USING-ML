@@ -98,22 +98,6 @@ So the problem which we will dealing is to reduce hot metal silicon at GBF . So 
           e. Categorization
           f. Low <=0.70(L)
           g. High>0.70(H
-## AVAILABILITY AND SI TREND
-
-![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/ava.png)
-
-
-
-
-
-The given data is the availability of silicon in the iron ore found after it undergoes extraction process.
-
-
-
-
-![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/ava1.png)
-
-   ### GR95DAYS - No of days with Availability>=95 Data from 1 Jan 2014 to 31 Mar 2017
 
 ## PREPARE AND PROCESS THE DATA
 [PREPARE AND PROCESS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/SELECT_REL_DATA/readme.md)
