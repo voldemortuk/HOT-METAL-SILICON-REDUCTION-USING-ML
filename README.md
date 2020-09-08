@@ -232,7 +232,7 @@ You can see that the predictions have a poor fit to the actual values with a val
 
 2. [LOGISTIC REGRESSSION](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED/LOGISTIC_REGRESSION)
 
-3. [DECISION TREE](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/ML%20ALGORITHMS%20USED/DecisionTree.ipynb)
+3. [DECISION TREE](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED/DECISION_TREE)
 
 ## VERFIY AND DEPLOY
 [MODEL WISE IMPORTANT PARAMETERS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED)
