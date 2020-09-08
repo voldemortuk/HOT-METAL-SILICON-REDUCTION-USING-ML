@@ -1,7 +1,5 @@
 ## PREPARE & PROCESS THE DATA
 
-![prepare and process](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/ava2.png)
-
 
 ##### Due to high bias, data from 2016 onwards was considered
 
