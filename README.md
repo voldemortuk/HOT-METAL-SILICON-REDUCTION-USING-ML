@@ -100,7 +100,7 @@ So the problem which we will dealing is to reduce hot metal silicon at GBF . So 
           g. High>0.70(H
 ## AVAILABILITY AND SI TREND
 
-![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/IMAGES/ava.png)
+![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/ava.png)
 
 
 
@@ -111,12 +111,12 @@ The given data is the availability of silicon in the iron ore found after it und
 
 
 
-![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/IMAGES/ava1.png)
+![si trend](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/ava1.png)
 
    ### GR95DAYS - No of days with Availability>=95 Data from 1 Jan 2014 to 31 Mar 2017
 
 ## PREPARE AND PROCESS THE DATA
-[PREPARE AND PROCESS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/SELECT_REL_DATA/readme.md)
+[PREPARE AND PROCESS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/SELECT_REL_DATA/readme.md)
     
 ## MODEL THE DATA
 
@@ -228,14 +228,14 @@ You can see that the predictions have a poor fit to the actual values with a val
       ● R^2.
       
 ## TRAIN AND TEST 
-1. [LINEAR REGRESSION](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-MLML%20ALGORITHMS%20USED/LINEAR_REGRESSION)
+1. [LINEAR REGRESSION](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED/LINEAR_REGRESSION)
 
-2. [LOGISTIC REGRESSSION](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/ML%20ALGORITHMS%20USED/LOGISTIC_REGRESSION)
+2. [LOGISTIC REGRESSSION](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED/LOGISTIC_REGRESSION)
 
-3. [DECISION TREE](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/ML%20ALGORITHMS%20USED/DecisionTree.ipynb)
+3. [DECISION TREE](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/ML%20ALGORITHMS%20USED/DecisionTree.ipynb)
 
 ## VERFIY AND DEPLOY
-[MODEL WISE IMPORTANT PARAMETERS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/ML%20ALGORITHMS%20USED)
+[MODEL WISE IMPORTANT PARAMETERS](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/tree/master/ML%20ALGORITHMS%20USED)
 
 ## CONCLUSION
 
@@ -253,4 +253,6 @@ You can see that the predictions have a poor fit to the actual values with a val
 
       -The outcome is easily communicable with the line manager as well as the operator.
        
+    
+
     
