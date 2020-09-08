@@ -1,7 +1,7 @@
 # HOT-METAL-SILICON-REDUCTION-USING-ML
 
 # DATA MINING PHASES/ TYPES
-![Image of data mining](https://github.com/Valdermaut/IMAGES/datamining.png)
+![Image of data mining](https://github.com/Valdermaut/HOT-METAL-SILICON-REDUCTION-USING-ML/blob/master/IMAGES/datamining.png)
 
 ## INTRODUCTION
 
